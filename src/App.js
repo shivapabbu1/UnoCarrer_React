@@ -31,7 +31,12 @@ function App() {
    <br/>
    <MovieTable/>
     </div>
-    
+     <h1 style={{textAlign:"center"}}>Day:4</h1>
+   
+   <div>
+  <StudentTable/>
+
+   </div>
     </>
     
   );
