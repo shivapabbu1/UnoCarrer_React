@@ -37,6 +37,18 @@ function App() {
   <StudentTable/>
 
    </div>
+  <h1 style={{textAlign:"center"}}>Day:5</h1>
+<div>
+
+  <PropsDemo name={"shiva"} course={"Mern FullStack"} /> 
+  <p>"React"</p>
+  <PropsDemo name={"kiran"} course={"JavaFullStack"}/>
+  <p>Javascript</p>
+  <PropsDemo name={"Lucky"} course={"Mean FullStack"}/>
+</div>
+<div>
+  <PageComp/>
+</div>
     </>
     
   );
