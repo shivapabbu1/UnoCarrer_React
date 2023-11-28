@@ -37,7 +37,7 @@ function App() {
   <StudentTable/>
 
    </div>
-  <h1 style={{textAlign:"center"}}>Day:5</h1>
+  <h1 style={{textAlign:"center"}}>Day:5 && Day-6</h1>
 <div>
 
   <PropsDemo name={"shiva"} course={"Mern FullStack"} /> 
