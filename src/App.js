@@ -49,6 +49,19 @@ function App() {
 <div>
   <PageComp/>
 </div>
+
+
+ <div>
+   <h1 style={{textAlign:"center"}}>Dec-4</h1> 
+<NavBar/>
+<Routes>
+  <Route path='/' exact Component={Login}/>
+  <Route path='/home' Component={Home}/>
+  <Route path='/about' Component={About}/>
+  <Route path='/contact' Component={Contact}/>
+</Routes>
+</div> 
+  
     </>
     
   );
